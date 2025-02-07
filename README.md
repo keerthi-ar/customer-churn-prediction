@@ -54,3 +54,14 @@ git clone https://github.com/your-username/customer-churn-prediction.git
 ```bash
 cd customer-churn-prediction
 ```
+
+## Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the analysis:
+```bash
+python customer-churn-prediction.ipynb
+```
