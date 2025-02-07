@@ -64,7 +64,7 @@ cd customer-churn-prediction
 pip install -r requirements.txt
 ```
 
-## Run the analysis:
+## Run the code:
 ```bash
 python customer-churn-prediction.ipynb
 ```
