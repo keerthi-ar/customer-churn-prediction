@@ -25,6 +25,9 @@ In this project, we analyze customer data to identify patterns associated with c
 4. **Model Testing**:
    - Tested the model with a sample customer to predict whether they would churn or not.
 
+## Citation:
+Kaggle. (2019). Telco Customer Churn. Retrieved from https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 ## Installation:
 To run this project on your local machine, you'll need to install the following libraries:
 
