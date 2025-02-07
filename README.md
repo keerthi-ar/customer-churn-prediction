@@ -66,5 +66,5 @@ pip install -r requirements.txt
 
 ## Run the code:
 ```bash
-python customer-churn-prediction.ipynb
+jupyter notebook customer-churn-prediction.ipynb
 ```
